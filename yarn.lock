@@ -1090,10 +1090,6 @@
     xcode "^2.0.0"
     xmldoc "^0.4.0"
 
-"@react-native-community/viewpager@react-native-community/react-native-viewpager#master":
-  version "3.1.0"
-  resolved "https://codeload.github.com/react-native-community/react-native-viewpager/tar.gz/e70c315e16a547f448402eee70529ec73c5a3f88"
-
 "@release-it/conventional-changelog@^1.1.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@release-it/conventional-changelog/-/conventional-changelog-1.1.0.tgz#42e33ceff37d6ae4ad1667b4a1b1586b75e58fca"

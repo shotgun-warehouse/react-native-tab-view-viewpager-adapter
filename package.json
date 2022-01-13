@@ -32,7 +32,6 @@
   "devDependencies": {
     "@commitlint/config-conventional": "^8.2.0",
     "@react-native-community/bob": "^0.7.0",
-    "@react-native-community/viewpager": "react-native-community/react-native-viewpager#master",
     "@release-it/conventional-changelog": "^1.1.0",
     "@types/react": "^16.9.5",
     "@types/react-native": "^0.60.18",
@@ -57,7 +56,6 @@
     "typescript": "^3.6.3"
   },
   "peerDependencies": {
-    "@react-native-community/viewpager": "*",
     "react": "*",
     "react-native": "*",
     "react-native-gesture-handler": "*",
